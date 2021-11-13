@@ -2,7 +2,6 @@
 
 ![descarga](https://user-images.githubusercontent.com/71624038/140627011-bb216a87-2ae2-4908-92ea-0cdac88dba46.jpg)
 
-
 Para comenzar a explicar los principios de la codificación segura necesitamos centrarnos inicialmente en que es la codificación segura. Para ello, de acuerdo con la página My server name. (s. f.). La codificación segura es diseñar y desarrollar software evitando las debilidades que conducen a vulnerabilidades relacionadas con la seguridad al adherirse a los estándares de seguridad especificados y las mejores prácticas de la industria.
 
 Ahora que todo está más claro, entendamos algunos principios básicos de la codificación segura. Conforme a la investigación de We live security. (s. f.). estos son algunos de los principios que no podemos dejar pasar por alto:
